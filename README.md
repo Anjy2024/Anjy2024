@@ -10,11 +10,11 @@ I'm building foundational skills in security monitoring, threat analysis, and in
 
 ## 🛠️ Core Skills
 
-**Security Tools:** Nmap, Wireshark, Burp Suite, Windows Defender, PowerShell, OpenSSL, VMware
+- **Security Tools:** Nmap, Wireshark, Burp Suite, Windows Defender, PowerShell, OpenSSL, VMware
 - **Security Domains:** Threat Analysis, Vulnerability Assessment, Incident Response, Risk Management, GRC, Cryptography, IAM, Business Continuity Planning
-**Networking:** TCP/IP, DNS, OSI Model, IP Addressing, Routing Fundamentals
-**Operating Systems:** Linux (Kali, Debian), Windows, Windows Server
-**Programming & Scripting:** Python, Linux Command Line
+- **Networking:** TCP/IP, DNS, OSI Model, IP Addressing, Routing Fundamentals
+- **Operating Systems:** Linux (Kali, Debian), Windows, Windows Server
+- **Programming & Scripting:** Python, Linux Command Line
 
 ## 📜 Certifications
 
