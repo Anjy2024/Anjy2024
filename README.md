@@ -18,7 +18,7 @@ I'm a cybersecurity student building practical defensive security skills through
 - **Security Domains:** Phishing Analysis, Threat Analysis, Vulnerability Assessment, Incident Response, Risk Management, GRC, Cryptography, IAM, Business Continuity Planning
 - **Networking:** TCP/IP, DNS, OSI Model, IP Addressing, Routing Fundamentals
 - **Operating Systems:** Linux (Kali, Debian), Windows, Windows Server
-- **Programming & Scripting:** Python, Linux Command Line
+- **Programming & Scripting:** Python, JavaScript, Linux Command Line
 
 ## 📜 Certifications
 
