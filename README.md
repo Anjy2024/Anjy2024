@@ -1,23 +1,23 @@
-# Hi, I'm Anjolaoluwa 👋 Cybersecurity Undergraduate | Aspiring SOC Analyst
+# Hi, I'm Anjolaoluwa 👋
+**Cybersecurity Undergraduate | SOC Analyst Intern at GiSOC | CompTIA Security+ | ISC2 CC**
 
-I'm building foundational skills in security monitoring, threat analysis, and incident response through hands-on labs, bootcamp training, and independent practice, aiming to bring that into a SOC team.
+I'm a cybersecurity student building practical defensive security skills through my internship at GiSOC, bootcamp training, and hands-on labs. At GiSOC I investigate phishing emails, run vulnerability scans, and analyze suspicious domains and threat actor behavior. I'm looking for a SIWES placement where I can apply these skills and gain exposure across security functions.
 
 ## 🔭 Currently
 
-- Studying **B.Sc. Cybersecurity** at Redeemer's University, Nigeria (expected 2028)
-- Practicing on **TryHackMe** and **OverTheWire** to build hands-on blue team skills
-- Documenting lab write-ups and networking/security projects to grow a public portfolio
+- SOC Analyst Intern at GiSOC (August 2026 to December 2026)
+- Studying B.Sc. Cybersecurity at Redeemer's University, Nigeria (expected 2028)
+- Taking a digital forensics course and working on a project on evidence collection and chain of custody
+- Practicing on TryHackMe and OverTheWire to build hands-on blue team skills
+- Documenting lab write-ups and security projects to grow a public portfolio
 
 ## 🛠️ Core Skills
 
-- **Security Tools:** Nmap, Wireshark, Burp Suite, Windows Defender, PowerShell, OpenSSL, VMware
-  
-- **Security Domains:** Threat Analysis, Vulnerability Assessment, Incident Response, Risk Management, GRC, Cryptography, IAM, Business Continuity Planning
-  
+- **Security Tools:** Nessus, Nmap, Wireshark, Burp Suite, Windows Defender, PowerShell, OpenSSL, VMware
+- **Threat Intelligence:** VirusTotal, AbuseIPDB, AlienVault OTX, Webamon, MalwareBazaar, WHOIS, MITRE ATT&CK Navigator
+- **Security Domains:** Phishing Analysis, Threat Analysis, Vulnerability Assessment, Incident Response, Risk Management, GRC, Cryptography, IAM, Business Continuity Planning
 - **Networking:** TCP/IP, DNS, OSI Model, IP Addressing, Routing Fundamentals
-  
 - **Operating Systems:** Linux (Kali, Debian), Windows, Windows Server
-  
 - **Programming & Scripting:** Python, Linux Command Line
 
 ## 📜 Certifications
@@ -27,9 +27,17 @@ I'm building foundational skills in security monitoring, threat analysis, and in
 
 ## 📌 Featured Projects
 
-- **[TryHackMe — Defensive Security Intro](https://github.com/Anjy2024/cybersecurity-lab-writeups/blob/main/writeups/tryhackme-defensive-security-intro.md)** — Hands-on with Shodan, VirusTotal, the NVD/CVE database, and GitHub-based threat research for SOC-style triage.
-- **[Networking & Security Checkpoint](https://github.com/Anjy2024/cybersecurity-lab-writeups/blob/main/writeups/networking-security-checkpoint.md)** — Multi-VM lab (Kali, Debian, Windows Server): host enumeration, Nmap scanning, DNS troubleshooting, IIS authentication hardening, and packet capture/analysis with Wireshark demonstrating how credentials are exposed over HTTP Basic Auth.
+**GiSOC internship (simulated exercises)**
+
+- [Phishing Email Analysis](https://github.com/Anjy2024/phishing-email-analysis): header analysis, IP and domain investigation with VirusTotal and AbuseIPDB, and indicators of compromise.
+- [Vulnerability Assessment with Nessus](https://github.com/Anjy2024/vulnerability-assessment-nessus): Nessus scan of Metasploitable2 from Kali Linux, CVSS and severity analysis, Excel dashboard, and remediation roadmap.
+- [Qilin Ransomware Threat Profile](https://github.com/Anjy2024/qilin-ransomware-threat-profile): individual research on a ransomware group, with a MITRE ATT&CK Navigator mapping coloured by priority, 14 IOCs, and mitigation recommendations.
+
+**Labs and training**
+
+- [TryHackMe: Defensive Security Intro](https://github.com/Anjy2024/cybersecurity-lab-writeups/blob/main/writeups/tryhackme-defensive-security-intro.md): hands-on with Shodan, VirusTotal, the NVD/CVE database, and GitHub-based threat research for SOC-style triage.
+- [Networking & Security Checkpoint](https://github.com/Anjy2024/cybersecurity-lab-writeups/blob/main/writeups/networking-security-checkpoint.md): multi-VM lab (Kali, Debian, Windows Server) covering host enumeration, Nmap scanning, DNS troubleshooting, IIS authentication hardening, and Wireshark packet analysis showing how credentials are exposed over HTTP Basic Auth.
 
 ## 📫 Reach Me
 
-[LinkedIn](https://www.linkedin.com/in/anjolaoluwa-onaeko-32484a2aa) · [TryHackMe](https://tryhackme.com/p/onaekoanjolaoluwa) · onaekoanjolaoluwa@gmail.com
+[LinkedIn](https://www.linkedin.com/in/anjolaoluwa-onaeko-32484a2aa) · [TryHackMe](https://tryhackme.com/p/onaekoanjolaoluwa) · [onaekoanjolaoluwa@gmail.com](mailto:onaekoanjolaoluwa@gmail.com)
